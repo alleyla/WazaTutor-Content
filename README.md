@@ -1,2 +1,2 @@
 # WazaTutor-Content
-content repo for WazaTutor
+Content repo for WazaTutor content
